@@ -9,7 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^17.3.1",
     "express": "^5.2.1",
-    "nodemon": "^3.1.14"
+    "mongoose": "^9.2.4",
+    "nanoid": "^5.1.6",
+    "nodemon": "^3.1.14",
+    "valid-url": "^1.0.9"
   }
 }
